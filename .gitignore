@@ -1,0 +1,16 @@
+
+*.bak
+
+.classpath
+
+.project
+
+.settings/
+
+*.class
+
+src/com/Emailer.java
+
+src/com/JDBC.java
+
+src/com/TestMain.java
